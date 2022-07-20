@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NidhiMitra
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python & C
+- 🌱 I’m currently learning Web developement, Java And DS Algo.
 - 💞️ I’m looking to collaborate on some cool projects
 - 📫 Reach me at NidhiMitraWork@gmail.com
 
